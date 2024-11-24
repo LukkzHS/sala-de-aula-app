@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220776240956",
+    "project_id": "sala-de-aula-app-a9071",
+    "storage_bucket": "sala-de-aula-app-a9071.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220776240956:android:7b012b4d41a060672bf039",
+        "android_client_info": {
+          "package_name": "br.edu.iftm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220776240956-b9hftkj7i3ogh9gh9h5d9um2d8n7k16f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_iTBseQtEQQ2NYbEz05i6FDtyp05q6Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220776240956-b9hftkj7i3ogh9gh9h5d9um2d8n7k16f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
